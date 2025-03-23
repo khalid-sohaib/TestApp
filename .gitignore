@@ -135,3 +135,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+android/.gradle/
+android/app/.cxx/
+android/app/build/
+android/build/
